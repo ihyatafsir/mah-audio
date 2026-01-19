@@ -1,0 +1,93 @@
+{
+  "36": {
+    "file": "yasin_36.mp3",
+    "audio_url": "https://raw.githubusercontent.com/ihyatafsir/mah-audio/main/yasin_36.mp3",
+    "start_ms": 0,
+    "word_timing": "timing_yasin.json",
+    "letter_timing": "letter_timing_yasin.json"
+  },
+  "47": {
+    "file": "muhammad_47.mp3",
+    "audio_url": "https://raw.githubusercontent.com/ihyatafsir/mah-audio/main/muhammad_47.mp3",
+    "start_ms": 0
+  },
+  "75": {
+    "file": "qiyamah_75.mp3",
+    "audio_url": "https://raw.githubusercontent.com/ihyatafsir/mah-audio/main/qiyamah_75.mp3",
+    "start_ms": 0,
+    "word_timing": "timing_qiyamah.json",
+    "letter_timing": "letter_timing_qiyamah.json"
+  },
+  "89": {
+    "file": "al-fajr_89.mp3",
+    "audio_url": "https://raw.githubusercontent.com/ihyatafsir/mah-audio/main/al-fajr_89.mp3",
+    "start_ms": 0,
+    "name": "Al-Fajr",
+    "name_ar": "الفجر",
+    "letter_timing": "letter_timing_89.json",
+    "verse_timing": "verse_timing_89.json"
+  },
+  "90": {
+    "file": "al-balad_90.mp3",
+    "audio_url": "https://raw.githubusercontent.com/ihyatafsir/mah-audio/main/al-balad_90.mp3",
+    "start_ms": 0,
+    "name": "Al-Balad",
+    "name_ar": "البلد",
+    "letter_timing": "letter_timing_90.json",
+    "verse_timing": "verse_timing_90.json"
+  },
+  "91": {
+    "file": "ash-shams_91.mp3",
+    "audio_url": "https://raw.githubusercontent.com/ihyatafsir/mah-audio/main/ash-shams_91.mp3",
+    "start_ms": 0,
+    "name": "Ash-Shams",
+    "name_ar": "الشمس",
+    "letter_timing": "letter_timing_91.json",
+    "verse_timing": "verse_timing_91.json"
+  },
+  "92": {
+    "file": "al-layl_92.mp3",
+    "audio_url": "https://raw.githubusercontent.com/ihyatafsir/mah-audio/main/al-layl_92.mp3",
+    "start_ms": 0,
+    "name": "Al-Layl",
+    "name_ar": "الليل",
+    "letter_timing": "letter_timing_92.json",
+    "verse_timing": "verse_timing_92.json"
+  },
+  "93": {
+    "file": "ad-duha_93.mp3",
+    "audio_url": "https://raw.githubusercontent.com/ihyatafsir/mah-audio/main/ad-duha_93.mp3",
+    "start_ms": 0,
+    "name": "Ad-Duha",
+    "name_ar": "الضحى",
+    "letter_timing": "letter_timing_93.json",
+    "verse_timing": "verse_timing_93.json"
+  },
+  "87": {
+    "file": "al-ala_87.mp3",
+    "audio_url": "https://raw.githubusercontent.com/ihyatafsir/mah-audio/main/al-ala_87.mp3",
+    "start_ms": 0,
+    "name": "Al-A'la",
+    "name_ar": "الأعلى",
+    "letter_timing": "letter_timing_87.json",
+    "verse_timing": "verse_timing_87.json"
+  },
+  "109": {
+    "file": "al-kafirun_109.mp3",
+    "audio_url": "https://raw.githubusercontent.com/ihyatafsir/mah-audio/main/al-kafirun_109.mp3",
+    "start_ms": 0,
+    "name": "Al-Kafirun",
+    "name_ar": "الكافرون",
+    "letter_timing": "letter_timing_109.json",
+    "verse_timing": "verse_timing_109.json"
+  },
+  "112": {
+    "file": "al-ikhlas_112.mp3",
+    "audio_url": "https://raw.githubusercontent.com/ihyatafsir/mah-audio/main/al-ikhlas_112.mp3",
+    "start_ms": 0,
+    "name": "Al-Ikhlas",
+    "name_ar": "الإخلاص",
+    "letter_timing": "letter_timing_112.json",
+    "verse_timing": "verse_timing_112.json"
+  }
+}
